@@ -36,8 +36,8 @@ Clona el repositorio a tu máquina local:
 
 ```bash
 
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/tu-usuario/text-encoder.git
+cd text-encoder
 ```
 
 Modifica el archivo encode-image.py para incluir tu propia cadena de texto:
